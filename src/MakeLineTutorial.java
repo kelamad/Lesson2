@@ -14,7 +14,7 @@ public class MakeLineTutorial {
         //drawString will print things onscreen
         p.drawString("(" +100 +", " + 50 +")");
         //and now for the second point
-        p.move(300-200,300-200);
+        p.move(100-200,300-200);
         p.drawString("(" + 300+ ", " +300 +")");
         
     }

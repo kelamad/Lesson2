@@ -21,7 +21,7 @@ public class PizzaCost {
         c.println("");
         c.println("Next order: ");
         c.println("");
-        if(a=false) break;
+        if(a=false) break; //this loop will go on forever
         }
         
     }
